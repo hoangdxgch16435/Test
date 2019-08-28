@@ -133,7 +133,7 @@ window.onclick = function(event) {
 	<div class="logo">
 		<div class="logo-Left">
 			<ul>
-		<li><img src="logo1.png" width="70px" height="70px" style="margin:5px;margin-left: 50px"></li>
+		<li><img src="logoH.jpg" width="70px" height="70px" style="margin:5px;margin-left: 50px"></li>
 		<li><h1 style="margin-left: 15px; color: #d04141;
     font-family: cursive;">
 		ATN SUPPER</h1></li>
